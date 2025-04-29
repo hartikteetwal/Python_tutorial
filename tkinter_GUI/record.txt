@@ -1,0 +1,13 @@
+('hartik', '7505693449', 'male', '100', 'card')
+('harsh', '6398786035', 'male', '100', 'cash')
+('himanshu', '9368893626', 'male', '100', 'paytm')
+('raj', '8126268628', 'male', '100', 'google')
+('hartik', '7546787678', 'm', '100', 'card')
+('hartik', '87542893', 'm', '8345', 'card')
+('hartik', '7505693449', 'm', '3842', 'paytm')
+('abhishek', '750iijdfois', 'jjdfj', '3842iuahd', 'paytmifi')
+('hartik', '7505693449', 'm', '110', 'cod')
+<bound method StringVar.get of <tkinter.StringVar object at 0x000001949E98BD90>>,<bound method StringVar.get of <tkinter.StringVar object at 0x000001949E9BCF10>>PY_VAR0,PY_VAR1hartik,teetwal358012hartik,teetwal
+('ishduuh', 'uhf', 'hef', 'wehfu', 'wehf')
+my name is jsdfn andmy password is idjfi('harik', 'ijid', 'is', 'isd', 'ishd')
+name = jhads, gender = m, roll no = 484, phone no = 3827423905
